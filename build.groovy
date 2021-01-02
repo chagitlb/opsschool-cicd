@@ -1,3 +1,3 @@
-stage("test"){
+stage("test1"){
   echo "success!"
 }
